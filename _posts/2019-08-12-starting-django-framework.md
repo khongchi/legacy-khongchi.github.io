@@ -13,14 +13,14 @@ categories: python django
 
 토픽별로 살펴볼 우선순위를 아래와 같이 정해보았다. 각각의 공식 문서를 링크하고 있다.
 
-0. [Installation](https://docs.djangoproject.com/en/2.2/topics/install/)
-1. [Handling HTTP requests](https://docs.djangoproject.com/ko/2.2/topics/http/)
+1. [Installation](https://docs.djangoproject.com/en/2.2/topics/install/)
+2. [Handling HTTP requests](https://docs.djangoproject.com/ko/2.2/topics/http/)
     1. controller, route
     2. request, response
     3. middleware
     4. session
-2. [Working with forms](https://docs.djangoproject.com/en/2.2/topics/forms/)
-3. [Models and databases](https://docs.djangoproject.com/en/2.2/topics/db/)
+3. [Working with forms](https://docs.djangoproject.com/en/2.2/topics/forms/)
+4. [Models and databases](https://docs.djangoproject.com/en/2.2/topics/db/)
 
 필수적인 토픽을 우선순위를 높게 두었다. 가끔 사용하는 파일업로드, 다운로드 같은 토픽은 그때그때 필요할 때 보면 될거같고, 요즘은 SPA 환경에서 주로 API서버로 django를 사용할 것이므로 템플릿도 우선순위를 낮게두고 살펴볼 예정이다.
 
