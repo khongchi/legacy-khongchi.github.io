@@ -4,6 +4,8 @@ date: 2019-08-12 14:20:00 +0900
 categories: python django
 ---
 
+django를 배우는 첫번째 단계, 설치부터 해보자
+
 # 준비
 
 설치환경:
