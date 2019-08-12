@@ -99,7 +99,7 @@ Quit the server with CONTROL-C.
 
 http://127.0.0.1:8000/ 에 접속한다.
 
-
+로켓이 날라가는 화면이 나오면 성공!
 
 
 
